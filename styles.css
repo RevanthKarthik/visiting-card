@@ -216,7 +216,7 @@ html[dir="rtl"] .marker {
 .nav-title-main {
     font-size: 1.05rem;
     font-weight: 700;
-    color: orange;
+    color: #E5C47A;
 }
 .nav-title-sub {
     font-size: 0.78rem;
@@ -619,3 +619,4 @@ html[dir="rtl"] .marker {
         padding-top: 20px;
     }
 }
+
